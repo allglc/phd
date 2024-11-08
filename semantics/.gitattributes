@@ -1,0 +1,6 @@
+# Ensure all text files use LF in the repository
+* text=auto eol=lf
+
+# Except for Windows-specific files that require CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
