@@ -1,5 +1,7 @@
 ## Code for my PhD thesis **Characterization of a Reliability Domain for Image Classifiers**.
 
+Link to the thesis: [https://theses.fr/2024UPASG109](https://theses.fr/2024UPASG109)
+
 ### Section 3.3 - Generate Synthetic Failure Cases
 [https://github.com/allglc/phd/tree/main/stylegan2](https://github.com/allglc/phd/tree/main/stylegan2)
 
